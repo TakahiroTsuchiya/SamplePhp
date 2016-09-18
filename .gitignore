@@ -1,0 +1,17 @@
+# Created by https://www.gitignore.io/api/phalcon,netbeans
+
+### Phalcon ###
+/cache/
+/config/development/
+
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### Heroku ###
+vendor/*
