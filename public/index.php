@@ -1,10 +1,4 @@
 <?php
-// echo "Hello World.";
-
-if isset($_POST["comment"]) {
-  $comment = $_POST[‘comment’];
-  echo $comment;
-}
 ?>
 <!DOCTYPE html>
 <html lang = “ja”>
